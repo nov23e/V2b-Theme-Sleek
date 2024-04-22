@@ -1,4 +1,4 @@
-# V2b-Theme-Sleek
+.# V2b-Theme-Sleek
 > 前后端分离主题 可搭建多个前端应用 <br>
 > 请注意同源策略 <br>
 
